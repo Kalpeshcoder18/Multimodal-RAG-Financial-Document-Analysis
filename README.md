@@ -47,7 +47,7 @@ The chart above illustrates the kind of visual evidence the chatbot can ground i
 ## ⚡ Quick Start
 
 ```bash
-git clone https://github.com/Harsimran-Dalal/Multimodal-RAG-Financial-Document-Analysis
+git clone https://github.com/Kalpeshcoder18/Multimodal-RAG-Financial-Document-Analysis
 cd Multimodal-RAG-Financial-Document-Analysis
 
 python -m venv .venv
