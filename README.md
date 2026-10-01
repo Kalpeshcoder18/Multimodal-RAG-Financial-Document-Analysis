@@ -214,4 +214,4 @@ The notebook workflow is intentionally inspectable and reproducible, making it a
 
 ## 👤 Footer
 
-Built by Harsimran Singh Dalal | B.E. ENC @ Thapar University
+Built by Kalpesh Paliwal | B.E. copc @ Thapar University
